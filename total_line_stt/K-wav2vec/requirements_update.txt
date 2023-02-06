@@ -1,0 +1,14 @@
+extension_helpers
+numpy
+jinja2
+astropy==4.2.1
+scipy
+editdistance==0.5.3
+pyctcdecode==0.1.0
+librosa
+tqdm
+pyyaml
+omegaconf
+hydra-core==1.0
+cython
+setuptools

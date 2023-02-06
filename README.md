@@ -38,7 +38,7 @@
 ### 사용방법
 - Windows Server 2019 기준으로 작성되었습니다.
 - 만약, checkpoint load 시에 오류가 발생했을 때는 아래 링크에서 checkpoint을 다운로드 받아 교체해주시기 바랍니다.
-- https://drive.google.com/file/d/1KQq_MzlQZMRo9HdNsEP2KNF0JXpo_yKK/view?usp=sharing
+- https://drive.google.com/file/d/17lqX_OvD6rn8SJhT6zJpiskD0e55lbVc/view?usp=share_link
     - 경로: ${ROOT_DIR}\total_line_stt\data\save_checkpoint
 
 0. 해당 repository를 다운로드합니다.

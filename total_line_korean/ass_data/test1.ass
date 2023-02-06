@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: V4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour,Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing,Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SPEAKER_03_분노,a옛날이발관L,55,&H00FFFFFF,&H000000FF,&H00000000,&H000000FF,0,0,0,0,100,100,0,0,1,5,5,2,10,10,10,1
+Style: SPEAKER_01_슬픔,a천생연분,50,&H00FFFFFF,&H000000FF,&H00000000,&H00BA7D0F,0,0,0,0,100,100,0,0,1,5,5,2,10,10,10,1
+Style: SPEAKER_02_슬픔,a천생연분,50,&H00FFFFFF,&H000000FF,&H00000000,&H00BA7D0F,0,0,0,0,100,100,0,0,1,5,5,2,10,10,10,1
+Style: SPEAKER_00_분노,a옛날이발관L,55,&H00FFFFFF,&H000000FF,&H00000000,&H000000FF,0,0,0,0,100,100,0,0,1,5,5,2,10,10,10,1
+Style: SPEAKER_05_슬픔,a천생연분,50,&H00FFFFFF,&H000000FF,&H00000000,&H00BA7D0F,0,0,0,0,100,100,0,0,1,5,5,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:01.34,00:00:02.03,SPEAKER_03_분노,,0,0,0,,SPEAKER_03:내가
+Dialogue: 0,00:00:02.69,00:00:04.09,SPEAKER_03_분노,,0,0,0,,SPEAKER_03:계속 연락했었는데
+Dialogue: 0,00:00:05.93,00:00:07.68,SPEAKER_03_분노,,0,0,0,,SPEAKER_03:아무리 연락해도 안 되길래
+Dialogue: 0,00:00:36.64,00:00:40.82,SPEAKER_01_슬픔,,0,0,0,,SPEAKER_01:나 집에 신내가 없어 그래서 들을 수가 없어
+Dialogue: 0,00:00:49.09,00:00:49.72,SPEAKER_02_슬픔,,0,0,0,,SPEAKER_02:그게 보은 거
+Dialogue: 0,00:00:50.46,00:00:51.67,SPEAKER_02_슬픔,,0,0,0,,SPEAKER_02:이제 나한테 연락하지 마
+Dialogue: 0,00:01:01.56,00:01:02.66,SPEAKER_00_분노,,0,0,0,,SPEAKER_00:게 무슨 소리야
+Dialogue: 0,00:01:12.58,00:01:14.81,SPEAKER_05_슬픔,,0,0,0,,SPEAKER_05:이제 종이 ᅡ ᅡ
+Dialogue: 0,00:01:17.95,00:01:18.59,SPEAKER_05_슬픔,,0,0,0,,SPEAKER_05:어서 주야
+
